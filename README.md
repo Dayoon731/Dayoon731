@@ -1,4 +1,5 @@
-### Hi there 👋 🌱 I’m currently learning ...
+### Hi there 👋 
+🌱 I’m currently learning ...
 
 <!--
 **Dayoon731/Dayoon731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
